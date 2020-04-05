@@ -1,6 +1,6 @@
 # hello-world
 the first repository I tried
 
-yaya~~
+this is the second time I commit.
 
-oh wow
+I am learning what's happening
